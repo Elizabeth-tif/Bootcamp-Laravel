@@ -1,0 +1,53 @@
+nav{
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    position: fixed;
+    margin: 0%;
+    top: 0%;
+    right: 0%;
+    left: 0%;
+}
+
+#article-list{
+    
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline;
+    margin-right: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    margin: 0%;
+    background-image: url(./img/pattern.jpg);
+    background-size: auto;
+}
+
+main{
+    margin: 4.5% 17% 1% 17%;
+    background-color: white;
+    text-align: justify;
+    padding: 10px;
+}
+
+article{
+    margin-top: 7%;
+    border-bottom: 1px solid;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-bottom: 2%;
+    padding: 0.125%;
+}
